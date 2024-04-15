@@ -4,5 +4,6 @@ I was playing KinitoPET and thought, hmm this would be a really cool virus
 So i did it.
 Not planned on being done anytime soon.
 Obviously this is a virus and will break your computer. Dur
-When this is done, if it every is. Im not responsible for damage to any computers.
-By running the program you are freeing me from any legal liability for damages.
+THIS IS FOR INFORMATIONAL AND EDUCATION PERPOSES ONLY!!!!
+DON'T RUN THIS ON YOUR COMPUTER OR ANYONE ELSES COMPUTER. 
+I AM NOT LIABLE FOR ANY DAMAGES IF YOU RUN THIS APPLICATION AT YOUR OWN RISK.
